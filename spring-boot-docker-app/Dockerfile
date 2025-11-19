@@ -1,4 +1,4 @@
-From openjdk:11
+FROM openjdk:11
 
 COPY target/spring-boot-docker-app.jar /usr/app
 
